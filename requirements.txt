@@ -1,0 +1,10 @@
+matplotlib==3.6.2
+networkx==2.8.8
+numpy==1.23.3
+opencv_python==4.6.0.66
+pandas==1.5.1
+plotly==5.11.0
+plotly_express==0.4.1
+scipy==1.10.1
+seaborn==0.12.2
+simulators.egg==info
